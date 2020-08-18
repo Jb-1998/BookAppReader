@@ -1,5 +1,6 @@
 ## Book Reader App
-![api](https://user-images.githubusercontent.com/57854970/85190980-c5949b80-b2ef-11ea-9f4d-649aa58a5cc2.JPG)
+![Bookreaderapp](https://user-images.githubusercontent.com/57854970/90471084-cf037e00-e14f-11ea-84b9-401c2abd3865.png)
+
 
 
 ### Working with the repo 
