@@ -16,7 +16,7 @@ Before you can start to use this project, there are prerequisite required tools 
 
 After you've installed all the necessary requirements, you can now install npm packages. Please refer to it's documentation. [npm documentation](https://docs.npmjs.com/downloading-and-installing-packages-locally).
 
-Use `npm install` from your terminal to install all necessary node modules required for build process. 
+Use `yarn install` from your terminal to install all necessary node modules required for build process. 
 
 ### Available Scripts
 
